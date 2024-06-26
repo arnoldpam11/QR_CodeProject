@@ -1,0 +1,52 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #d6e2f0;
+}
+.main {
+    background-color: #ffffff;
+    padding-top: 1rem;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #ffffff;
+    box-shadow: 2px 2px 0px 0px #7B879D;
+    border-radius: 15px;
+    width: 315px;
+    height: 450px;
+}
+img {
+    width: 280px;
+    height: 270px;
+    border-radius: 15px;
+    margin-bottom: -10px;
+}
+h2 {
+    color: #1F3251;
+    font-size: 22px;
+}
+p {
+    color: #7B879D;
+    font-size: 15px;
+}
+.content {
+    padding: 0 20px;
+}
+.challenge {
+    text-align: center;
+    font-size: 11px;
+    font-weight: bold;
+    color: #1F3251;
+    padding: 10px;
+}
+a {
+    color: #1F3251;
+}
+a:hover {
+    color:#1F3251;
+    text-decoration: #1F3251; 
+    cursor:pointer;  
+}
