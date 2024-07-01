@@ -10,9 +10,7 @@ body {
     padding-top: 1rem;
     text-align: center;
     display: block;
-    margin-top: 10rem;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 7rem auto auto;
     border: 2px solid #ffffff;
     box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.1);
     border-radius: 15px;
@@ -42,6 +40,7 @@ p {
     font-weight: bold;
     color: #1F3251;
     padding: 10px;
+    margin-bottom: 10rem;
 }
 a {
     color: #1F3251;
